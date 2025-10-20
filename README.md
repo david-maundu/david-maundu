@@ -49,13 +49,11 @@ I use these tools to transform data into actionable intelligence:
 
 ### ✨ Featured Project: A Case Study in Decision-Centric Analysis
 
-My flagship project demonstrates my end-to-end approach to solving a real-world business problem.
+My flagship project is a strategic tool designed to de-risk data analytics projects by modeling the factors that lead to success.
 
-| Project Title | Core Business Decision | Link to Case Study |
+| Project Title | Core Business Decision | Link to Case Study & Live App |
 |---|---|---|
-| **Optimizing the E-commerce Order Lifecycle** | How can we reduce order failures to simultaneously cut costs, stop wasting marketing spend, and improve customer loyalty? | [🔗 Read the Full Analysis](your-repo-link) |
-
-*This project involved a full analysis lifecycle: from a deep-dive data discovery and a simulated stakeholder requirements-gathering session to the development of a set of automated operational dashboards designed to drive daily decision-making.*
+| **The Data Analytics Neural Framework** | How can we systematically evaluate the feasibility of a data project to maximize its chances of delivering real business value? | [🔗 Explore the Framework & Launch the App](link-to-your-new-repo) |
 
 ---
 
