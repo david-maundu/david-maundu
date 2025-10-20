@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there, I'm David 👋
 
+<a href="https://linkedin.com/in/your-linkedin-url" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-url" height="30" width="40" /></a>
 
-**david-maundu/david-maundu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### My Mission: Bridging the Insight-to-Action Gap
 
-- 🔭 I’m currently working on data analysis
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I am a Data Analyst on a mission to empower organizations to make smarter, faster, and more confident decisions. I believe that the true value of data isn't found in complex models or dense reports, but in its ability to inspire **clear, decisive action**.
 
+My work focuses on the entire decision-making lifecycle: from translating ambiguous business challenges into concrete analytical questions, to building insightful BI tools, and, most importantly, to crafting compelling data narratives that bridge the critical gap between insight and implementation.
+
+---
+
+### 👨‍💻 My Approach to Data Analysis
+
+- 🌱 **Problem First, Data Second:** I begin every project by deeply understanding the business context and the specific decisions that need to be made. My analysis is always guided by a clear, stakeholder-aligned objective.
+- 🔭 **From Diagnosis to Recommendation:** I don't just identify *what* happened; I build hypotheses about *why* it happened and provide data-driven recommendations on *what to do next*.
+- 💬 **Data Storytelling, Not Data Reporting:** My goal is to build clear, intuitive, and actionable dashboards. I believe a great visualization doesn't just present data; it tells a story and guides the user to a conclusion.
+
+---
+
+### 🛠️ My Toolkit for Decision Intelligence
+
+I use these tools to transform data into actionable intelligence:
+
+| Core Skill | Technologies |
+|---|---|
+| **Data Querying & Manipulation** | ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Cloud Data Warehousing** | ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
+| **Business Intelligence & Storytelling** | ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) |
+| **Version Control & Collaboration** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+
+---
+
+### ✨ Featured Project: A Case Study in Decision-Centric Analysis
+
+My flagship project demonstrates my end-to-end approach to solving a real-world business problem.
+
+| Project Title | Core Business Decision | Link to Case Study |
+|---|---|---|
+| **Optimizing the E-commerce Order Lifecycle** | How can we reduce order failures to simultaneously cut costs, stop wasting marketing spend, and improve customer loyalty? | [🔗 Read the Full Analysis](your-repo-link) |
+
+*This project involved a full analysis lifecycle: from a deep-dive data discovery and a simulated stakeholder requirements-gathering session to the development of a set of automated operational dashboards designed to drive daily decision-making.*
+
+---
+
+### 📫 Let's Connect
+
+I'm actively seeking opportunities to help a data-driven team bridge their insight-to-action gap. If you're passionate about making better decisions with data, I'd love to chat.
+
+**[your-email@example.com]**
