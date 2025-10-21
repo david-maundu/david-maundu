@@ -61,4 +61,3 @@ My flagship project is a strategic tool designed to de-risk data analytics proje
 
 I'm actively seeking opportunities to help a data-driven team bridge their insight-to-action gap. If you're passionate about making better decisions with data, I'd love to chat.
 
-**[your-email@example.com]**
